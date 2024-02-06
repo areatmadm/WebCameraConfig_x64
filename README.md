@@ -1,3 +1,6 @@
+# It porked cfg-cam and only added 2 characters to support VS2022 #
+If you want to see original code, please visit 
+
 # cfg-cam #
 command-line application that saves and loads DirectShow webcam settings to/from the file
 
