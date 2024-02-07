@@ -1,4 +1,4 @@
-# It porked cfg-cam and only added 2 characters to support VS2022 #
+# It forked cfg-cam and only added 2 characters to support VS2022 #
 If you want to see original code, please visit https://github.com/SuslikV/cfg-cam
 
 # cfg-cam #
